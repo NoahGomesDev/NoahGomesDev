@@ -2,7 +2,9 @@
 
 - 👀 I’m interested in Computer Science and Mathematics
 
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Java
+
+- I know how to programme in Python
 
 - 📫 How to reach me:
 > Email: noahgomesdev@gmail.com
